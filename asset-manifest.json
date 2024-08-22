@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/commercial-court-automation/static/css/main.bdbf842e.css",
+    "main.js": "/commercial-court-automation/static/js/main.a2d7d10f.js",
+    "static/js/453.ea8462bf.chunk.js": "/commercial-court-automation/static/js/453.ea8462bf.chunk.js",
+    "index.html": "/commercial-court-automation/index.html",
+    "main.bdbf842e.css.map": "/commercial-court-automation/static/css/main.bdbf842e.css.map",
+    "main.a2d7d10f.js.map": "/commercial-court-automation/static/js/main.a2d7d10f.js.map",
+    "453.ea8462bf.chunk.js.map": "/commercial-court-automation/static/js/453.ea8462bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdbf842e.css",
+    "static/js/main.a2d7d10f.js"
+  ]
+}
